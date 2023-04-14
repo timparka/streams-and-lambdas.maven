@@ -84,5 +84,8 @@ public class StreamFilter {
     public Person[] toArrayMultiLine() {
         return null;
     }
+    public static void main(String[] args) {
+        
+    }
 
 }
